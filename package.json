@@ -1,0 +1,17 @@
+{
+  "name": "sampleform",
+  "version": "1.0.0",
+  "description": "simple application to save user information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"My very first MEAN Application\""
+  },
+  "author": "Ram kumar T",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "mongodb": "^3.0.1",
+    "mongoose": "latest"
+  }
+}
